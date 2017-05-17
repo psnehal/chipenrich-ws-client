@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/ws-client/src/main/java/org/ncibi/ws/client
+END
+ServerUrlConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/ws-client/src/main/java/org/ncibi/ws/client/ServerUrlConfiguration.java
+END
+BeanXMLWebServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/ws-client/src/main/java/org/ncibi/ws/client/BeanXMLWebServiceClient.java
+END
+WebServiceUrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/ws-client/src/main/java/org/ncibi/ws/client/WebServiceUrlBuilder.java
+END

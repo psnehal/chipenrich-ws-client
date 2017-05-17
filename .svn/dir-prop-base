@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 48
+target
+.project
+.classpath
+.buildpath
+.settings
+
+END
